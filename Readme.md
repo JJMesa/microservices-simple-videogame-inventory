@@ -6,7 +6,7 @@ Este proyecto es pequeño set APIs con .Net 8 y arquitectura de microservicios, 
 
 1. **packages** - Directorio donde se encuentran el NuGet's con la logica comun de los servicios.
 
-- **Play.Catalog** - Servicio para el control de los items del inventario.
+- **Play.Catalog** - Servicio para el control de los items.
 
 - **Play.Common** - Servicio que contiene toda la logica comun de los servicios (Extensiones para implementación de MassTransit, Mongo).
 
