@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B98B4D-85AD-4358-959A-1A5032D1A252}|src\\Play.Common\\Play.Common.csproj|c:\\users\\57300\\documents\\repositorios_personal\\microservices-practice\\play.common\\src\\play.common\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B98B4D-85AD-4358-959A-1A5032D1A252}|src\\Play.Common\\Play.Common.csproj|solutionrelative:src\\play.common\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B98B4D-85AD-4358-959A-1A5032D1A252}|src\\Play.Common\\Play.Common.csproj|c:\\users\\57300\\documents\\repositorios_personal\\microservices-practice\\play.common\\src\\play.common\\settings\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B98B4D-85AD-4358-959A-1A5032D1A252}|src\\Play.Common\\Play.Common.csproj|solutionrelative:src\\play.common\\settings\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B98B4D-85AD-4358-959A-1A5032D1A252}|src\\Play.Common\\Play.Common.csproj|c:\\users\\57300\\documents\\repositorios_personal\\microservices-practice\\play.common\\src\\play.common\\settings\\servicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B98B4D-85AD-4358-959A-1A5032D1A252}|src\\Play.Common\\Play.Common.csproj|solutionrelative:src\\play.common\\settings\\servicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B98B4D-85AD-4358-959A-1A5032D1A252}|src\\Play.Common\\Play.Common.csproj|c:\\users\\57300\\documents\\repositorios_personal\\microservices-practice\\play.common\\src\\play.common\\masstransit\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B98B4D-85AD-4358-959A-1A5032D1A252}|src\\Play.Common\\Play.Common.csproj|solutionrelative:src\\play.common\\masstransit\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B98B4D-85AD-4358-959A-1A5032D1A252}|src\\Play.Common\\Play.Common.csproj|c:\\users\\57300\\documents\\repositorios_personal\\microservices-practice\\play.common\\src\\play.common\\mongodb\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B98B4D-85AD-4358-959A-1A5032D1A252}|src\\Play.Common\\Play.Common.csproj|solutionrelative:src\\play.common\\mongodb\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\src\\Play.Common\\MongoDb\\Extensions.cs",
+              "RelativeDocumentMoniker": "src\\Play.Common\\MongoDb\\Extensions.cs",
+              "ToolTip": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\src\\Play.Common\\MongoDb\\Extensions.cs",
+              "RelativeToolTip": "src\\Play.Common\\MongoDb\\Extensions.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:21:23.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\src\\Play.Common\\MassTransit\\Extension.cs",
+              "RelativeDocumentMoniker": "src\\Play.Common\\MassTransit\\Extension.cs",
+              "ToolTip": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\src\\Play.Common\\MassTransit\\Extension.cs",
+              "RelativeToolTip": "src\\Play.Common\\MassTransit\\Extension.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:20:33.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceSettings.cs",
+              "DocumentMoniker": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\src\\Play.Common\\Settings\\ServiceSettings.cs",
+              "RelativeDocumentMoniker": "src\\Play.Common\\Settings\\ServiceSettings.cs",
+              "ToolTip": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\src\\Play.Common\\Settings\\ServiceSettings.cs",
+              "RelativeToolTip": "src\\Play.Common\\Settings\\ServiceSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:20:25.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqSettings.cs",
+              "DocumentMoniker": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\src\\Play.Common\\Settings\\RabbitMqSettings.cs",
+              "RelativeDocumentMoniker": "src\\Play.Common\\Settings\\RabbitMqSettings.cs",
+              "ToolTip": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\src\\Play.Common\\Settings\\RabbitMqSettings.cs",
+              "RelativeToolTip": "src\\Play.Common\\Settings\\RabbitMqSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:20:24.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\src\\Play.Common\\Settings\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "src\\Play.Common\\Settings\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\57300\\Documents\\Repositorios_Personal\\microservices-practice\\Play.Common\\src\\Play.Common\\Settings\\MongoDbSettings.cs",
+              "RelativeToolTip": "src\\Play.Common\\Settings\\MongoDbSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:20:22.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
