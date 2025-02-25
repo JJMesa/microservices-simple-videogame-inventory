@@ -4,7 +4,7 @@ Este proyecto es pequeño set APIs con .Net 8 y arquitectura de microservicios, 
 
 # Guia de directorios.
 
-1. **packages** - Directorio donde se encuentran el NuGet's con la logica comun de los servicios.
+- **packages** - Directorio donde se encuentran el NuGet's con la logica comun de los servicios.
 
 - **Play.Catalog** - Servicio para el control de los items.
 
